@@ -5,7 +5,11 @@
     <application
         android:label="Pushup"
         android:name="${applicationName}"
-        android:icon="@mipmap/launcher_icon">
+        android:icon="@mipmap/launcher_icon"
+        android:versionCode="1"
+        android:versionName="Initial"
+        android:appCategory="productivity"
+        android:isGame="false">
         <activity
             android:name=".MainActivity"
             android:exported="true"

@@ -56,7 +56,6 @@ dependencies:
   cupertino_icons: ^1.0.2
   proximity_sensor: ^1.0.4
   decimal:
-  url_launcher: ^6.1.6
   flutter_launcher_icons: ^0.10.0
 
 dev_dependencies:
