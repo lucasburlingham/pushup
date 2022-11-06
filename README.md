@@ -1,17 +1,10 @@
-# pushup
+# Pushup
 
-A new Flutter project.
+A simple app written in flutter to count the number of pushups you do.
 
-## Getting Started
+## Usage
 
-This project is a starting point for a Flutter application.
+Place device on the ground below where you will be doing pushups, and begin!
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# pushup
+*You may contact the creator via his
+email [lucas@lucasburlingham.me](mailto:lucas@lucasburlingham.me).
